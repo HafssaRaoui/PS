@@ -1,3 +1,4 @@
+#Use Boyer-Moore Voting Algorithm
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
 
@@ -15,3 +16,7 @@ class Solution:
 
 
         return candidate
+    
+
+#Time O(n)
+#Space O(1)
