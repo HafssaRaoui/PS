@@ -1,8 +1,6 @@
 import random 
 import string
 class Codec:
-
-
     def __init__(self):
         self.base_url = "http://tinyurl.com/"
         self.key_length = 6 
